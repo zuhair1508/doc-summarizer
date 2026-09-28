@@ -1,0 +1,477 @@
+{
+ "pages": [
+  "FICTIONAL SAMPLE FOR DEMONSTRATION ONLY. Not legal advice. All names are invented.\nPage 1\nMASTER SUBSCRIPTION AGREEMENT\nThis Master Subscription Agreement (the \"Agreement\") is entered into as of January 15, 2026 (the\n\"Effective Date\") by and between Lumen Ridge Software, Inc., a Delaware corporation with offices at\n400 Alder Street, Wilmington, DE (\"Provider\"), and Harbor & Pine Outfitters LLC, an Oregon limited\nliability company with offices at 12 Quarry Road, Bend, OR (\"Customer\"). Provider and Customer are\neach a \"Party\" and together the \"Parties\".\n1. Definitions\n1.1 \"Services\" means Provider's hosted inventory forecasting platform known as \"Ridgeline\", including\nall updates made generally available during the Term.\n1.2 \"Customer Data\" means all data, files and content submitted to the Services by or on behalf of\nCustomer, including sales history, supplier records and store-level inventory counts.\n1.3 \"Authorized Users\" means Customer's employees and contractors who are permitted by Customer to\naccess the Services, up to the number of seats stated in the Order Form.\n1.4 \"Order Form\" means the ordering document executed by both Parties that references this Agreement.\nThe initial Order Form is attached as Exhibit A.\n1.5 \"Usage Data\" means technical logs, performance metrics and statistical information derived from the\noperation of the Services, including information derived from Customer Data.\n2. Services and Access\n2.1 Provision of Services. Provider will make the Services available to Customer's Authorized Users\nduring the Term in accordance with this Agreement and the applicable Order Form.\n2.2 Onboarding. Provider will complete initial configuration and data import within thirty (30) days after\nCustomer delivers its historical sales data in the format specified in Provider's onboarding guide.\nCustomer shall deliver such data no later than February 14, 2026. Delays caused by Customer's late\ndelivery do not delay the start of billing.\n2.3 Restrictions. Customer shall not (a) resell or sublicense the Services, (b) reverse engineer the Services,\n(c) use the Services to build a competing product, or (d) exceed the seat count without purchasing\nadditional seats.\n2.4 Acceptable Use Policy. Customer shall comply with Provider's Acceptable Use Policy, which Provider\nmay update from time to time by posting a revised version on its website. Updates are effective fifteen\n(15) days after posting. Continued use of the Services after that date constitutes acceptance of the updated\npolicy.\n3. Fees and Payment\n3.1 Fees. Customer shall pay the fees stated in the Order Form. The initial annual subscription fee is USD\n84,000 for 60 seats, invoiced annually in advance.\n3.2 Payment Terms. Invoices are due net fifteen (15) days from the invoice date. Overdue amounts accrue\na late charge of 1.5% per month, or the maximum permitted by law if lower.\n3.3 Price Adjustments. Provider may increase fees for any Renewal Term by up to twelve percent (12%)",
+  "FICTIONAL SAMPLE FOR DEMONSTRATION ONLY. Not legal advice. All names are invented.\nPage 2\nover the fees for the preceding term by giving Customer written notice at least thirty (30) days before the\nstart of the Renewal Term.\n3.4 Suspension. If any undisputed amount remains unpaid more than ten (10) days after written notice of\nnon-payment, Provider may suspend access to the Services until payment is received in full.\n3.5 Taxes. Fees exclude taxes. Customer is responsible for all sales, use and similar taxes, other than taxes\non Provider's net income.\n4. Term and Renewal\n4.1 Initial Term. This Agreement begins on the Effective Date and continues for twelve (12) months (the\n\"Initial Term\").\n4.2 Automatic Renewal. Upon expiry of the Initial Term, this Agreement automatically renews for\nsuccessive periods of twenty-four (24) months each (each a \"Renewal Term\") unless either Party gives\nwritten notice of non-renewal at least ninety (90) days before the end of the then-current term.\n4.3 Termination for Cause. Either Party may terminate this Agreement if the other Party materially\nbreaches it and fails to cure the breach within thirty (30) days after receiving written notice describing the\nbreach.\n4.4 No Termination for Convenience. Except as expressly stated in this Section 4, fees are non-cancellable\nand non-refundable, and Customer may not terminate this Agreement for convenience.\n5. Customer Data\n5.1 Ownership. As between the Parties, Customer owns all Customer Data.\n5.2 License to Provider. Customer grants Provider a worldwide, non-exclusive license to host, copy and\nprocess Customer Data as necessary to provide the Services.\n5.3 Usage Data. Provider may collect and use Usage Data for any lawful purpose, including to improve\nthe Services and to develop and train Provider's machine learning models, provided that Provider does not\ndisclose Usage Data in a form that identifies Customer by name. This right survives termination of this\nAgreement.\n5.4 Security. Provider will maintain administrative, physical and technical safeguards designed to protect\nCustomer Data, as described in Provider's Security Overview, which Provider may update provided that\nupdates do not materially reduce overall protection.\n5.5 Data Export and Deletion. For thirty (30) days following termination or expiry, Customer may export\nCustomer Data using the standard export tools. After that period, Provider will delete Customer Data from\nproduction systems. Backups are deleted in the ordinary course, within one hundred eighty (180) days.\n6. Service Levels\n6.1 Availability. Provider will use commercially reasonable efforts to make the Services available 99.5%\nof the time in each calendar month, excluding scheduled maintenance announced at least 48 hours in\nadvance and events outside Provider's reasonable control.\n6.2 Service Credits. If availability falls below 99.5% in a month, Customer may request a credit equal to\n2% of that month's pro-rated fees for each full 1% below the target, up to a maximum of 5% of that\nmonth's fees. Customer must request credits within fifteen (15) days after the end of the affected month.",
+  "FICTIONAL SAMPLE FOR DEMONSTRATION ONLY. Not legal advice. All names are invented.\nPage 3\n6.3 Exclusive Remedy. Service credits are Customer's sole and exclusive remedy for any failure to meet\nthe availability target.\n6.4 Support. Standard support is available by email, Monday through Friday, 8:00 a.m. to 6:00 p.m.\nPacific Time, with a target first response time of one (1) business day.\n7. Confidentiality\n7.1 Each Party shall protect the other Party's Confidential Information using at least reasonable care and\nuse it only to perform under this Agreement.\n7.2 These obligations continue for three (3) years after termination, except for trade secrets, which remain\nprotected for as long as they qualify as trade secrets under applicable law.\n8. Warranties and Disclaimers\n8.1 Provider warrants that the Services will perform materially in accordance with the published\ndocumentation. Customer's exclusive remedy for breach of this warranty is for Provider to correct the\nnon-conformity or, if Provider cannot do so within a reasonable time, for either Party to terminate the\naffected Order Form and for Provider to refund prepaid fees for the remaining period.\n8.2 Forecasts, recommendations and reorder suggestions generated by the Services are estimates only.\nProvider does not warrant their accuracy, and Customer is solely responsible for purchasing and inventory\ndecisions.\n8.3 EXCEPT AS EXPRESSLY STATED IN THIS AGREEMENT, THE SERVICES ARE PROVIDED\n\"AS IS\" AND PROVIDER DISCLAIMS ALL OTHER WARRANTIES, INCLUDING IMPLIED\nWARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\n9. Limitation of Liability\n9.1 NEITHER PARTY WILL BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR\nCONSEQUENTIAL DAMAGES, OR FOR LOST PROFITS OR REVENUE, EVEN IF ADVISED OF\nTHEIR POSSIBILITY.\n9.2 EACH PARTY'S TOTAL LIABILITY ARISING OUT OF THIS AGREEMENT WILL NOT\nEXCEED THE FEES PAID OR PAYABLE BY CUSTOMER IN THE THREE (3) MONTHS BEFORE\nTHE EVENT GIVING RISE TO THE CLAIM.\n9.3 The limits in Section 9.2 do not apply to Customer's payment obligations or to either Party's breach of\nSection 7 (Confidentiality).\n10. Indemnification\n10.1 Provider will defend Customer against third-party claims alleging that the Services infringe a United\nStates patent, copyright or trademark, and will pay damages finally awarded, provided Customer promptly\nnotifies Provider and gives Provider sole control of the defense.\n10.2 Customer will defend Provider against third-party claims arising from Customer Data or from\nCustomer's use of the Services in violation of this Agreement.",
+  "FICTIONAL SAMPLE FOR DEMONSTRATION ONLY. Not legal advice. All names are invented.\nPage 4\n11. General\n11.1 Notices. Legal notices must be sent by email to legal@lumenridge.example (for Provider) or to the\nemail address in the Order Form (for Customer), with a copy by courier. Notices of non-renewal are\neffective only when sent to legal@lumenridge.example.\n11.2 Assignment. Neither Party may assign this Agreement without the other Party's consent, except that\nProvider may assign it without consent in connection with a merger, acquisition or sale of substantially all\nof its assets.\n11.3 Governing Law. This Agreement is governed by the laws of the State of Delaware. The Parties\nsubmit to the exclusive jurisdiction of the state and federal courts located in New Castle County,\nDelaware.\n11.4 Publicity. Provider may identify Customer as a customer by name and logo in its marketing materials\nunless Customer opts out in writing.\n11.5 Entire Agreement. This Agreement, together with all Order Forms, is the entire agreement between\nthe Parties and supersedes all prior agreements regarding its subject matter.\nExhibit A: Initial Order Form\nSubscription: Ridgeline Forecasting, Professional Edition\nSeats: 60 Authorized Users\nSubscription Fee: USD 84,000 per year, invoiced annually in advance\nOnboarding Fee: USD 9,500, one-time, invoiced on the Effective Date\nInitial Term: January 15, 2026 to January 14, 2027\nNon-renewal notice deadline for Initial Term: October 16, 2026\nCustomer notice email: operations@harborpine.example\nCustomer contact: Dana Whitfield, Director of Operations\nProvider contact: Sam Okafor, Account Executive\nSignatures\nLUMEN RIDGE SOFTWARE, INC.\nBy: Priya Natarajan Title: Chief Revenue Officer Date: January 12, 2026\nHARBOR & PINE OUTFITTERS LLC\nBy: Dana Whitfield Title: Director of Operations Date: January 15, 2026"
+ ],
+ "summaries": {
+  "brief": {
+   "tldr": "This Master Subscription Agreement between Lumen Ridge Software and Harbor & Pine Outfitters governs the use of the Ridgeline inventory forecasting platform, including service terms, fees, data rights, and liability limits. It outlines a 12-month initial term with automatic 24-month renewals, payment obligations, and restrictions on use and data handling.",
+   "sections": [
+    {
+     "heading": "Key Points",
+     "points": [
+      {
+       "text": "The Agreement provides Customer access to the Ridgeline platform for 60 Authorized Users with an initial annual fee of USD 84,000 and a one-time onboarding fee of USD 9,500.",
+       "refs": [
+        1,
+        4
+       ]
+      },
+      {
+       "text": "Customer Data remains owned by Customer, who grants Provider a license to process it for service delivery, while Provider may use Usage Data to improve services and train models without identifying Customer.",
+       "refs": [
+        2
+       ]
+      },
+      {
+       "text": "Service availability is guaranteed at 99.5% monthly uptime, with service credits as the exclusive remedy for downtime, calculated at 2% of monthly fees per 1% below target, up to 5% max.",
+       "refs": [
+        2
+       ]
+      },
+      {
+       "text": "Either party may terminate for material breach after a 30-day cure period, but there is no termination for convenience, and fees are non-cancellable and non-refundable except as expressly stated.",
+       "refs": [
+        1,
+        2
+       ]
+      },
+      {
+       "text": "Provider’s total liability is capped at fees paid or payable in the three months preceding a claim, excluding payment obligations and confidentiality breaches, and neither party is liable for indirect or consequential damages.",
+       "refs": [
+        3
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "Bottom Line",
+     "points": [
+      {
+       "text": "Customer should ensure timely delivery of onboarding data by February 14, 2026, to avoid delays in service setup, as late delivery does not delay billing start.",
+       "refs": [
+        1
+       ]
+      },
+      {
+       "text": "To avoid automatic renewal, Customer must provide written notice of non-renewal at least 90 days before the end of the Initial Term or any Renewal Term, with the initial deadline being October 16, 2026.",
+       "refs": [
+        1,
+        2
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "eli5": {
+   "tldr": "A contract between a software provider and a customer for a subscription service that outlines fees, data ownership, service levels, and legal rules.",
+   "sections": [
+    {
+     "heading": "In Plain English",
+     "points": [
+      {
+       "text": "This is a contract between a software company (Lumen Ridge) and a customer (Harbor & Pine) for using a tool called Ridgeline. The customer pays a yearly fee of $84,000 for 60 seats and can use the software to help with inventory forecasting.",
+       "refs": [
+        1,
+        4
+       ]
+      },
+      {
+       "text": "The contract starts on January 15, 2026, and lasts for one year. After that, it automatically renews for 24-month periods unless someone gives a written notice 90 days before the end of the term.",
+       "refs": [
+        1,
+        2
+       ]
+      },
+      {
+       "text": "The customer owns their data, but the software provider can use it to improve the service and train AI models. The provider must keep the data safe and delete it within 180 days after the contract ends.",
+       "refs": [
+        2,
+        3
+       ]
+      },
+      {
+       "text": "The software is provided 'as is,' meaning the provider does not guarantee perfect forecasts or unlimited uptime. If the service goes down too much, the customer might get a small credit, but they cannot sue for more than a few months' fees.",
+       "refs": [
+        3,
+        4
+       ]
+      },
+      {
+       "text": "The contract is governed by Delaware law, and any disputes must be settled in Delaware courts. The provider can use the customer's name in marketing unless the customer objects in writing.",
+       "refs": [
+        1,
+        4
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "Key Terms",
+     "points": [
+      {
+       "text": "Effective Date: The date the contract starts, which is January 15, 2026.",
+       "refs": [
+        1
+       ]
+      },
+      {
+       "text": "Authorized Users: The employees or contractors of the customer who are allowed to use the software, up to the number of seats purchased.",
+       "refs": [
+        1
+       ]
+      },
+      {
+       "text": "Service Credits: Refunds or discounts given to the customer if the software is not available 99.5% of the time in a month.",
+       "refs": [
+        2
+       ]
+      },
+      {
+       "text": "Usage Data: Technical information collected by the provider about how the software is used, which they can use to improve their services.",
+       "refs": [
+        2
+       ]
+      },
+      {
+       "text": "Limitation of Liability: A legal rule that limits how much a party can be sued for, usually capped at the fees paid in the last three months.",
+       "refs": [
+        3
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "actions": {
+   "tldr": "The document is a Master Subscription Agreement for the 'Ridgeline' inventory forecasting platform, outlining the 12-month initial term starting January 15, 2026, the associated fees, service level expectations, and the legal obligations of both the Provider (Lumen Ridge Software) and the Customer (Harbor & Pine Outfitters).",
+   "sections": [
+    {
+     "heading": "Tasks",
+     "points": [
+      {
+       "text": "Customer must deliver historical sales data in the specified format by February 14, 2026; late delivery does not delay the start of billing.",
+       "refs": [
+        1,
+        2
+       ]
+      },
+      {
+       "text": "Customer must pay the initial annual subscription fee of USD 84,000 for 60 seats and the one-time onboarding fee of USD 9,500, both invoiced on or around the Effective Date.",
+       "refs": [
+        1,
+        4
+       ]
+      },
+      {
+       "text": "Customer must comply with the Acceptable Use Policy, including the 15-day notice period for updated policies posted on the Provider's website.",
+       "refs": [
+        1,
+        4
+       ]
+      },
+      {
+       "text": "Customer must pay invoices within 15 days of the invoice date; overdue payments accrue a late charge of 1.5% per month (or the maximum permitted by law if lower).",
+       "refs": [
+        2
+       ]
+      },
+      {
+       "text": "Provider may suspend access to the Services if any undisputed amount remains unpaid more than 10 days after written notice of non-payment.",
+       "refs": [
+        2
+       ]
+      },
+      {
+       "text": "Either Party may terminate the Agreement for material breach if the breaching Party fails to cure the breach within 30 days after receiving written notice.",
+       "refs": [
+        2,
+        4
+       ]
+      },
+      {
+       "text": "Customer may request service credits within 15 days after the end of a month where availability falls below 99.5%.",
+       "refs": [
+        3
+       ]
+      },
+      {
+       "text": "Customer must promptly notify Provider of any third-party claims alleging that the Services infringe a US patent, copyright, or trademark.",
+       "refs": [
+        3
+       ]
+      },
+      {
+       "text": "Customer must defend Provider against third-party claims arising from Customer Data or Customer's use of the Services in violation of the Agreement.",
+       "refs": [
+        3
+       ]
+      },
+      {
+       "text": "Legal notices of non-renewal must be sent to legal@lumenridge.example to be effective.",
+       "refs": [
+        4
+       ]
+      },
+      {
+       "text": "Customer may opt out of having its name and logo used in Provider's marketing materials by providing written notice to the Provider.",
+       "refs": [
+        4
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "Dates & Deadlines",
+     "points": [
+      {
+       "text": "Effective Date: January 15, 2026.",
+       "refs": [
+        1
+       ]
+      },
+      {
+       "text": "Customer historical sales data delivery deadline: February 14, 2026.",
+       "refs": [
+        1
+       ]
+      },
+      {
+       "text": "Provider onboarding completion deadline: 30 days after Customer delivers its historical sales data.",
+       "refs": [
+        1
+       ]
+      },
+      {
+       "text": "Initial Term: January 15, 2026, to January 14, 2027 (12 months).",
+       "refs": [
+        1,
+        4
+       ]
+      },
+      {
+       "text": "Non-renewal notice deadline for the Initial Term: October 16, 2026 (90 days before the end of the term).",
+       "refs": [
+        1,
+        4
+       ]
+      },
+      {
+       "text": "Price adjustment notice period: Provider must give at least 30 days' written notice before the start of a Renewal Term to increase fees by up to 12%.",
+       "refs": [
+        2
+       ]
+      },
+      {
+       "text": "Service credit request window: within 15 days after the end of the affected month.",
+       "refs": [
+        3
+       ]
+      },
+      {
+       "text": "Data export window: Customer may export Customer Data for 30 days following termination or expiry.",
+       "refs": [
+        3
+       ]
+      },
+      {
+       "text": "Backup deletion timeline: Backups are deleted within 180 days after termination or expiry.",
+       "refs": [
+        3
+       ]
+      },
+      {
+       "text": "Confidentiality obligations duration: 3 years after termination (except for trade secrets, which remain protected indefinitely).",
+       "refs": [
+        3
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "Open Questions",
+     "points": [
+      {
+       "text": "What is the specific format required for the historical sales data mentioned in the onboarding guide?",
+       "refs": [
+        1
+       ]
+      },
+      {
+       "text": "What is the exact invoice date for the USD 84,000 annual subscription fee and the USD 9,500 onboarding fee?",
+       "refs": [
+        2
+       ]
+      },
+      {
+       "text": "What is the specific email address for Customer legal notices, as referenced in the Order Form?",
+       "refs": [
+        4
+       ]
+      },
+      {
+       "text": "What is the maximum permitted late charge percentage by law that would override the 1.5% per month rate?",
+       "refs": [
+        2
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "critique": {
+   "tldr": "The contract is a standard SaaS subscription agreement with balanced terms, but it contains significant risks for the Customer, including automatic 24-month renewal, unilateral price increases up to 12%, broad data usage rights for the Provider, and a liability cap limited to three months of fees.",
+   "sections": [
+    {
+     "heading": "Main Claims",
+     "points": [
+      {
+       "text": "The Agreement defines the Services as the 'Ridgeline' hosted inventory forecasting platform, Customer Data, Authorized Users (up to 60 seats), and the Order Form.",
+       "refs": [
+        1
+       ]
+      },
+      {
+       "text": "The Customer agrees to pay an initial annual subscription fee of USD 84,000 for 60 seats, plus a one-time onboarding fee of USD 9,500, as detailed in Exhibit A.",
+       "refs": [
+        1,
+        4
+       ]
+      },
+      {
+       "text": "The Agreement automatically renews for successive 24-month terms unless a written notice of non-renewal is provided at least 90 days before the end of the current term.",
+       "refs": [
+        2
+       ]
+      },
+      {
+       "text": "Customer Data remains the Customer's property, but the Provider is granted a worldwide, non-exclusive license to host, copy, process, and use Usage Data (including machine learning model training) for any lawful purpose.",
+       "refs": [
+        2,
+        3
+       ]
+      },
+      {
+       "text": "Service availability is guaranteed at 99.5% per month, with service credits capped at 5% of the monthly pro-rated fees as the exclusive remedy for downtime.",
+       "refs": [
+        3
+       ]
+      },
+      {
+       "text": "Liability for both parties is capped at the fees paid or payable in the three months preceding the event, with carve-outs for payment obligations and confidentiality breaches.",
+       "refs": [
+        3
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "Weak Spots & Risks",
+     "points": [
+      {
+       "text": "The automatic renewal term is long (24 months) and the notice window (90 days) is strict; missing the deadline commits the Customer to another two-year term and a potential 12% price increase.",
+       "refs": [
+        2
+       ]
+      },
+      {
+       "text": "Section 3.3 allows the Provider to increase fees by up to 12% for any Renewal Term with only 30 days' written notice, which is a significant unilateral pricing risk.",
+       "refs": [
+        2
+       ]
+      },
+      {
+       "text": "Section 2.2 states that billing starts on the Effective Date regardless of the Customer's delays in delivering historical sales data, creating a financial risk for late onboarding.",
+       "refs": [
+        1,
+        2
+       ]
+      },
+      {
+       "text": "The Provider can unilaterally update the Acceptable Use Policy with only 15 days' notice, and continued use of the service constitutes binding acceptance of those changes.",
+       "refs": [
+        1,
+        2
+       ]
+      },
+      {
+       "text": "Section 5.3 grants the Provider perpetual, irrevocable rights to use 'Usage Data' (derived from Customer Data) to train machine learning models, which could inadvertently expose proprietary business metrics to model training pools.",
+       "refs": [
+        2,
+        3
+       ]
+      },
+      {
+       "text": "Section 5.5 specifies that after termination, Customer Data is only available for export for 30 days, and backups are deleted within 180 days, leaving a narrow window for data retrieval.",
+       "refs": [
+        3
+       ]
+      },
+      {
+       "text": "Section 6.3 makes service credits the 'sole and exclusive remedy' for availability failures, preventing the Customer from seeking damages for significant business interruptions.",
+       "refs": [
+        3
+       ]
+      },
+      {
+       "text": "Section 8.2 explicitly disclaims warranties on the accuracy of forecasts and recommendations, placing full operational and financial risk for inventory decisions solely on the Customer.",
+       "refs": [
+        3
+       ]
+      },
+      {
+       "text": "The liability cap in Section 9.2 is restricted to the fees of the last three months (USD 21,000), which is disproportionately low compared to potential consequential losses of a retail business.",
+       "refs": [
+        3
+       ]
+      },
+      {
+       "text": "Section 11.1 dictates that notices of non-renewal must be sent specifically to legal@lumenridge.example to be valid, creating a technical trap if the Customer sends notices to the general operations contact listed in the Order Form.",
+       "refs": [
+        4
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "What's Missing",
+     "points": [
+      {
+       "text": "The document lacks explicit definitions or SLA remedies for data security breaches, leaving the Customer without clear recourse if Provider safeguards fail (Section 5.4 only requires 'materially' equivalent protection).",
+       "refs": [
+        1,
+        2,
+        3,
+        4
+       ]
+      },
+      {
+       "text": "There is no defined process or timeline for handling service credits other than the 15-day request window, nor is there a mechanism for dispute resolution or mediation before litigation.",
+       "refs": [
+        1,
+        3
+       ]
+      },
+      {
+       "text": "The agreement does not address force majeure events that might prevent the Customer from sending non-renewal notices by the 90-day deadline.",
+       "refs": [
+        2,
+        4
+       ]
+      },
+      {
+       "text": "There are no details regarding data residency, privacy compliance (such as GDPR or CCPA obligations), or where the Customer Data is physically stored and processed.",
+       "refs": [
+        1,
+        2
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}

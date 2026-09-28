@@ -1,26 +1,76 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --bg: #f7f5f0;
+  --surface: #ffffff;
+  --surface-2: #efece4;
+  --ink: #1c1b18;
+  --muted: #6b675e;
+  --line: #e2ddd2;
+  --accent: #b4451f;
+  --accent-soft: #f6e3da;
+  --accent-ink: #ffffff;
+  --ok: #2f6f4e;
+  --warn-bg: #fff6df;
+  --warn-ink: #7a5a00;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --bg: #141311;
+    --surface: #1d1c19;
+    --surface-2: #26241f;
+    --ink: #ece8df;
+    --muted: #a39e92;
+    --line: #34312b;
+    --accent: #f08a5d;
+    --accent-soft: #3a2519;
+    --accent-ink: #1c1b18;
+    --ok: #7cc79d;
+    --warn-bg: #2e2712;
+    --warn-ink: #f0d27a;
   }
 }
 
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-accent-ink: var(--accent-ink);
+  --color-ok: var(--ok);
+  --color-warn-bg: var(--warn-bg);
+  --color-warn-ink: var(--warn-ink);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-serif: var(--font-newsreader);
+}
+
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--bg);
+  color: var(--ink);
+}
+
+/* Brief pulse on the source a citation points to. */
+@keyframes cite-flash {
+  0% { box-shadow: 0 0 0 0 var(--accent); }
+  30% { box-shadow: 0 0 0 4px var(--accent); }
+  100% { box-shadow: 0 0 0 0 transparent; }
+}
+.cite-flash {
+  animation: cite-flash 1.6s ease-out;
+}
+
+@keyframes caret {
+  50% { opacity: 0; }
+}
+.streaming-caret::after {
+  content: "▍";
+  margin-left: 2px;
+  color: var(--accent);
+  animation: caret 1s steps(1) infinite;
 }
